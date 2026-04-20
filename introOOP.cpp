@@ -5,6 +5,7 @@ class mahasiswa {
     private: // Data disembunyikan di sini
         int nim;
         string nama;
+        float nilai;
       
 }
 class mahasiswa{
