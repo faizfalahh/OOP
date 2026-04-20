@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 
+class mahasiswa {
+    private: // Data disembunyikan di sini
+      
+}
 class mahasiswa{
 public :
     int nim;
