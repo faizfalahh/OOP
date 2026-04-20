@@ -6,5 +6,10 @@ public :
     int nim;
     string nama;
     float nilai;
-    
+
+    void PrintData(){
+        cout << "nim : " << nim << endl;
+        cout << "nama :" << nama << endl;
+        cout << "Nilai :" << nilai << endl;     
+    }
 }
