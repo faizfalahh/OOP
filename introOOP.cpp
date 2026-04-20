@@ -12,4 +12,8 @@ public :
         cout << "nama :" << nama << endl;
         cout << "Nilai :" << nilai << endl;     
     }
+}; //batas class
+
+int main(){
+    mahasiswa mhs;
 }
