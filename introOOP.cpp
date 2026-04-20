@@ -3,6 +3,8 @@ using namespace std;
 
 class mahasiswa {
     private: // Data disembunyikan di sini
+        int nim;
+        string nama;
       
 }
 class mahasiswa{
